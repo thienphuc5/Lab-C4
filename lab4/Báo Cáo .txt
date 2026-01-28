@@ -1,0 +1,7 @@
+Trong Lab 4, em đã import nhiều AudioClip gồm nhạc nền (BGM) và hiệu ứng âm thanh (SFX).
+
+Đối với SFX, em sử dụng Load Type Decompress On Load và Compression Format ADPCM nhằm đảm bảo âm thanh được phát ngay lập tức, tránh độ trễ khi xảy ra sự kiện.
+
+Đối với BGM, em sử dụng Load Type Streaming kết hợp với Vorbis để giảm việc sử dụng bộ nhớ RAM do file nhạc có thời lượng dài.
+
+Việc cấu hình khác nhau cho từng loại AudioClip giúp tối ưu hiệu năng và bộ nhớ cho ứng dụng.
