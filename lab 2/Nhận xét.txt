@@ -1,0 +1,4 @@
+Audio 2D được sử dụng cho các âm thanh không phụ thuộc vị trí trong không gian như nhạc nền, âm thanh UI, hoặc thông báo hệ thống.
+Audio 3D được sử dụng cho các âm thanh có vị trí trong thế giới game như tiếng súng, tiếng bước chân, tiếng máy móc hoặc môi trường xung quanh, giúp tăng tính chân thực và trải nghiệm người chơi.
+
+khi bật 3d, Nghe rõ âm thanh to nhỏ khi thoát và ở trong vòng, di chuyển bên trái hay phải sẽ Nghe thấy âm thanh bên tai trái hoặc phải
